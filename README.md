@@ -2,7 +2,7 @@
 ### Me chamo Willian! Prazer tê lo aqui!
 - Matogrossense :house: :herb:
 - Universitário de Ciência da Computação 🧑‍💻 :books: 
-- Interesse por estágio como Desenvolvedor Web ou na área da tecnologia 🧰
+- Interesse por estágio como Desenvolvedor 🧰
 
 ## Conhecimentos em:
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt = "ruby" width = "40" height = "40" style = "max-width : 100%; "> </img><img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" alt = "ruby" width = "40" height = "40" style = "max-width : 100%; "> </img> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt = "ruby" width = "40" height = "40" style = "max-width : 100%; "> </img></img> <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt = "ruby" width = "40" height = "40" style = "max-width : 100%; "> </img>
